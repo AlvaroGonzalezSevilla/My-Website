@@ -567,3 +567,25 @@ section {
         margin-left: 68.5%;
         height: 87%;
       }
+
+      .net{
+        align-items: center;
+        width: 100%;
+        margin-top: 100px;
+        text-align: center;
+        font-weight: bolder;
+        text-decoration: none;
+        font-size: 20px;
+        color: black;
+        height: 100%;
+      }
+      .webs{
+        text-decoration: none;
+        color: black;
+      }
+      .pagsweb{
+        width: 45%;
+        float: left;
+        margin: 20px;
+        align-items: center;
+      }
